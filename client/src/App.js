@@ -72,6 +72,7 @@ class App extends React.Component {
           ))}
         </ul>
         <p>テストコード追加しました。</p>
+        <p>メールアドレスを変更しました。</p>
       </div>
     );
   }
